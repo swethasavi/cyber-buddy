@@ -1,0 +1,91 @@
+{
+  "states": {
+    "maharashtra": {
+      "mumbai": {
+        "address": "Cyber Crime Investigation Cell, Mumbai Police, 4th Floor, New Administrative Building, Crawford Market, Mumbai - 400001",
+        "helpline": "1930",
+        "website": "https://cybercrime.gov.in"
+      },
+      "pune": {
+        "address": "Cyber Crime Cell, Pune Police, Shivajinagar Police Station, Pune - 411005",
+        "helpline": "020-26122880",
+        "website": "https://punepolice.gov.in"
+      }
+    },
+    "delhi": {
+      "new_delhi": {
+        "address": "Cyber Crime Cell, Delhi Police, Special Cell, Lodhi Road, New Delhi - 110003",
+        "helpline": "011-23469526",
+        "website": "https://delhipolice.nic.in"
+      }
+    },
+    "karnataka": {
+      "bangalore": {
+        "address": "Cyber Crime Police Station, CID Building, Carlton House, Palace Road, Bangalore - 560001",
+        "helpline": "080-22942555",
+        "website": "https://ksp.gov.in"
+      }
+    },
+    "tamil_nadu": {
+      "chennai": {
+        "address": "Cyber Crime Cell, Tamil Nadu Police, DGP Office Complex, Mylapore, Chennai - 600004",
+        "helpline": "044-28447700",
+        "website": "https://tnpolice.gov.in"
+      }
+    },
+    "west_bengal": {
+      "kolkata": {
+        "address": "Cyber Crime Cell, West Bengal Police, Lalbazar, Kolkata - 700001",
+        "helpline": "033-22143526",
+        "website": "https://wbpolice.gov.in"
+      }
+    },
+    "gujarat": {
+      "ahmedabad": {
+        "address": "Cyber Crime Cell, Gujarat Police, Police Bhavan, Sector 18, Gandhinagar - 382018",
+        "helpline": "079-23977100",
+        "website": "https://gujaratpolice.gov.in"
+      }
+    },
+    "rajasthan": {
+      "jaipur": {
+        "address": "Cyber Crime Cell, Rajasthan Police, Police Headquarters, Jaipur - 302015",
+        "helpline": "0141-2744000",
+        "website": "https://police.rajasthan.gov.in"
+      }
+    },
+    "uttar_pradesh": {
+      "lucknow": {
+        "address": "Cyber Crime Cell, UP Police, Police Headquarters, Lucknow - 226001",
+        "helpline": "0522-2238902",
+        "website": "https://uppolice.gov.in"
+      }
+    },
+    "telangana": {
+      "hyderabad": {
+        "address": "Cyber Crime Police Station, Hyderabad City Police, Banjara Hills, Hyderabad - 500034",
+        "helpline": "040-27853508",
+        "website": "https://hyderabadpolice.gov.in"
+      }
+    },
+    "kerala": {
+      "kochi": {
+        "address": "Cyber Crime Cell, Kerala Police, Police Headquarters, Thiruvananthapuram - 695010",
+        "helpline": "0471-2721547",
+        "website": "https://keralapolice.gov.in"
+      }
+    },
+    "puducherry": {
+      "puducherry": {
+        "address": "Cyber Crime Cell, Puducherry Police, Directorate of Police, Puducherry - 605001",
+        "helpline": "0413-2336842",
+        "website": "https://police.py.gov.in"
+      }
+    }
+  },
+  "national": {
+    "helpline": "1930",
+    "website": "https://cybercrime.gov.in",
+    "email": "complaints@cybercrime.gov.in"
+  }
+}

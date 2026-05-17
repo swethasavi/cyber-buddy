@@ -1,0 +1,114 @@
+{
+  "cyberattacks": {
+    "phishing_attacks": {
+      "definition": "Phishing attacks trick people into sharing personal information like passwords or bank details by pretending to be trusted companies through fake emails, websites, or messages.",
+      "indian_cyber_law": "IT Act 2000 - Section 66D (Punishment for cheating by personation by using computer resource)",
+      "penalty": "Imprisonment up to 3 years and/or fine up to ₹1,00,000",
+      "safety_tips": [
+        "Always verify sender's identity before clicking any links",
+        "Check website URLs carefully for spelling mistakes",
+        "Never share passwords or OTPs via email or phone",
+        "Use two-factor authentication on all accounts"
+      ]
+    },
+    "malware_attacks": {
+      "definition": "Malware attacks use harmful software like viruses, trojans, or ransomware to damage computers, steal data, or gain unauthorized access to systems.",
+      "indian_cyber_law": "IT Act 2000 - Section 66 (Computer related offences) and Section 43 (Penalty for damage to computer, computer system, etc.)",
+      "penalty": "Imprisonment up to 3 years and/or fine up to ₹5,00,000",
+      "safety_tips": [
+        "Install trusted antivirus software and keep it updated",
+        "Avoid downloading files from unknown sources",
+        "Don't click on suspicious links or pop-ups",
+        "Keep your operating system and software updated"
+      ]
+    },
+    "denial_of_service": {
+      "definition": "DoS/DDoS attacks flood websites or servers with fake traffic to make them unavailable to real users, causing service disruption.",
+      "indian_cyber_law": "IT Act 2000 - Section 66 (Computer related offences)",
+      "penalty": "Imprisonment up to 3 years and/or fine up to ₹5,00,000",
+      "safety_tips": [
+        "Use DDoS protection services for websites",
+        "Monitor network traffic for unusual patterns",
+        "Keep server software updated and secure",
+        "Have backup servers ready for emergencies"
+      ]
+    },
+    "hacking": {
+      "definition": "Hacking involves gaining unauthorized access to computer systems, networks, or accounts without permission to steal data or cause damage.",
+      "indian_cyber_law": "IT Act 2000 - Section 66 (Computer related offences) and Section 43 (Penalty for damage to computer system)",
+      "penalty": "Imprisonment up to 3 years and/or fine up to ₹5,00,000",
+      "safety_tips": [
+        "Use strong, unique passwords for all accounts",
+        "Enable two-factor authentication everywhere",
+        "Keep software and systems updated",
+        "Monitor accounts for suspicious activity"
+      ]
+    },
+    "identity_theft": {
+      "definition": "Identity theft involves stealing personal information like Aadhaar, PAN, or bank details to impersonate someone and commit fraud in their name.",
+      "indian_cyber_law": "IT Act 2000 - Section 66C (Punishment for identity theft) and Section 66D (Punishment for cheating by personation)",
+      "penalty": "Imprisonment up to 3 years and/or fine up to ₹1,00,000",
+      "safety_tips": [
+        "Never share personal documents unnecessarily",
+        "Monitor bank statements regularly for suspicious activity",
+        "Use strong passwords and enable account alerts",
+        "Be careful about sharing personal information online"
+      ]
+    },
+    "data_breach": {
+      "definition": "Data breach occurs when unauthorized persons access, steal, or expose sensitive information like personal data, passwords, or financial records from organizations.",
+      "indian_cyber_law": "IT Act 2000 - Section 43A (Compensation for failure to protect data) and Section 72A (Punishment for disclosure of information in breach of lawful contract)",
+      "penalty": "Imprisonment up to 3 years and/or fine up to ₹5,00,000, plus compensation",
+      "safety_tips": [
+        "Use different passwords for different accounts",
+        "Enable notifications for account activities",
+        "Regularly check if your data was breached online",
+        "Update passwords immediately if breach is reported"
+      ]
+    },
+    "website_defacement": {
+      "definition": "Website defacement involves unauthorized modification of a website's appearance or content, often to display political messages or demonstrate hacking skills.",
+      "indian_cyber_law": "IT Act 2000 - Section 66 (Computer related offences) and Section 43 (Penalty for damage to computer system)",
+      "penalty": "Imprisonment up to 3 years and/or fine up to ₹5,00,000",
+      "safety_tips": [
+        "Keep website software and plugins updated",
+        "Use strong admin passwords and two-factor authentication",
+        "Regular website backups to restore quickly",
+        "Monitor website for unauthorized changes"
+      ]
+    },
+    "cyberstalking_cyberbullying": {
+      "definition": "Cyberstalking and cyberbullying involve using digital platforms to harass, threaten, or intimidate individuals repeatedly through messages, posts, or other online activities.",
+      "indian_cyber_law": "IT Act 2000 - Section 66A (Punishment for sending offensive messages) and Section 67 (Punishment for publishing obscene material)",
+      "penalty": "Imprisonment up to 3 years and/or fine",
+      "safety_tips": [
+        "Block and report abusive users immediately",
+        "Don't respond to or engage with cyberbullies",
+        "Save evidence of harassment for reporting",
+        "Adjust privacy settings on social media accounts"
+      ]
+    },
+    "piracy_digital_content_theft": {
+      "definition": "Piracy and digital content theft involve unauthorized copying, distribution, or use of copyrighted material like movies, music, software, or books without permission.",
+      "indian_cyber_law": "IT Act 2000 - Section 66 (Computer related offences) and Copyright Act 1957",
+      "penalty": "Imprisonment up to 3 years and/or fine up to ₹3,00,000",
+      "safety_tips": [
+        "Use only licensed software and legal streaming services",
+        "Avoid downloading content from suspicious websites",
+        "Purchase original software and media content",
+        "Report piracy websites to authorities"
+      ]
+    },
+    "financial_fraud": {
+      "definition": "Financial fraud includes UPI scams, fake banking websites, fraudulent transactions, and tricks to steal money through digital payment methods or online banking.",
+      "indian_cyber_law": "IT Act 2000 - Section 66D (Cheating by personation) and IPC Section 420 (Cheating)",
+      "penalty": "Imprisonment up to 7 years and/or fine",
+      "safety_tips": [
+        "Never share OTP, PIN, or CVV with anyone",
+        "Verify payment requests before sending money",
+        "Use official banking apps and websites only",
+        "Enable transaction alerts and check statements regularly"
+      ]
+    }
+  }
+}
